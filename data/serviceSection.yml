@@ -10,13 +10,13 @@ service:
   - content: >
       #### Web Application Development 
 
-      Created multiple web application using Java, Python, JavaScript, SpringBoot, ReactJS, SQL/NoSQL databases and other technology.
+      Created multiple web application using Java, Python, JavaScript, SpringBoot, ReactJS, SQL/NoSQL databases and other technologies.
     image: images/service/ui-ux.svg
 
   - content: >
       #### Backend Development
 
-      Enjoy Backend design and devlopment. Love to Optimize the performance and find out innovative solution with latest technology like Kafka, Redis, Docker, Kubernetes, Spark Elastic Search etc. 
+      Enjoy Backend design and development. Love to Optimize the performance and find out innovative solution with latest technology like Kafka, Redis, Docker, Kubernetes, Spark Elastic Search etc. 
 
       
     image: images/service/creative.svg
