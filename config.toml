@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
+#baseURL = "http://example.org/"
+baseURL = "https://rofiqul-islam.github.io/Portfolio/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
